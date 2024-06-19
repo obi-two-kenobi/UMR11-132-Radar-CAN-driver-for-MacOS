@@ -1,4 +1,8 @@
 # UMR11 Type 132 Radar CAN driver for MacOS 
+This is a ROS-free driver for Smartmicro's UMR11 Type 132 Radar (in mid-range mode only) in CAN mode. 
+Can be edited to work on Linux by changing the KvaserCAN-Library.
+
+
 ## Dependancies:
 - [KvaserCAN-Library](https://github.com/mac-can/KvaserCAN-Library.git)
 - [OpenCV](https://github.com/opencv/opencv.git)
